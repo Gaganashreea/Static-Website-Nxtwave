@@ -1,3 +1,4 @@
 Chat Page:
 
-![image](https://github.com/user-attachments/assets/cefa3499-9009-4cde-97dc-2b601ef1dd70)
+![image](https://github.com/user-attachments/assets/f09ded6a-20f6-42fb-9998-98833a46672f)
+
