@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #875fc0;
+    background-size: cover;
+    height: 134vh;
+
+
+}
+
+.main-heading1 {
+    color: #ffffff;
+    font-size: 18px;
+    font-family: "Roboto";
+    text-align: right;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.card-container1 {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 12px;
+}
+
+.main-heading2 {
+    color: black;
+    font-size: 22px;
+    font-family: "Roboto";
+    text-align: center;
+    font-weight: normal;
+    padding: 10px;
+
+}
+
+.paragraph {
+    color: #1f2933;
+    font-size: 15px;
+    font-family: "Roboto";
+    text-align: center;
+    font-weight: normal;
+    padding: 10px;
+
+}
+
+.image {
+    height: 150px;
+    width: 300px;
+}
+
+.card-container2 {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 15px;
+}
+
+.button5 {
+    background-color: orange;
+    color: white;
+    height: 40px;
+    width: 90px;
+    text-align: center;
+    border-radius: 8px;
+    padding: 4px;
+    margin: 7px;
+    border-width: 0px;
+
+
+}
+
+.button-alignment {
+    text-align: center;
+}
+
+.option {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #323f4b;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 15px;
+}
+
+.option-list {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #323f4b;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 15px;
+    list-style-type: upper-alpha;
+}
+
+.correct-option {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #323f4b;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 15px;
+    background-color: #875fc0;
+    color: white;
+
+}
