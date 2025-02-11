@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+.background-image {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png');
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.bg-card-container {
+    background-color: #ffffff;
+    border-top-right-radius: 12px;
+    border-top-left-radius: 12px;
+    padding: 1px;
+}
+
+
+.main-heading {
+    color: #323f4b;
+    font-size: 13px;
+    font-family: "Roboto";
+    padding: 10px;
+    margin: 10px;
+}
+
+.paragraph1 {
+    color: #323f4b;
+    font-size: 19px;
+    font-family: "Roboto";
+    margin: 14px;
+    padding: 1px;
+}
+
+.paragraph2 {
+    color: #7b8794;
+    font-size: 12px;
+    font-family: "Roboto";
+    margin: 14px;
+    padding: 1px;
+}
+
+.button {
+    color: #ffffff;
+    background-color: black;
+    border-radius: 7px;
+    height: 35px;
+    width: 115px;
+    margin: 14px;
+    padding: 1px;
+
+}
