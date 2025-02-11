@@ -1,14 +1,9 @@
 Book Store Page:
 
-![image](https://github.com/user-attachments/assets/719e12f5-0db2-490f-9759-192ac5aee26f)
-![image](https://github.com/user-attachments/assets/a9dd488f-b1f4-46c0-8091-b41d2a8635df)
-![image](https://github.com/user-attachments/assets/60299320-ff9c-4c53-bbac-c8fb2edb2fcb)
-![image](https://github.com/user-attachments/assets/a460c887-93c0-4be5-90d4-af3c98764ff9)
-![image](https://github.com/user-attachments/assets/17a2bccc-0439-4675-a919-eee490629d5e)
-![image](https://github.com/user-attachments/assets/802a3549-38a5-402f-96bf-035375e1736c)
-![image](https://github.com/user-attachments/assets/c860e19c-a043-4aa7-9763-b0dac8c979d7)
-![image](https://github.com/user-attachments/assets/ad714658-8a6f-4d51-b351-ff303776432b)
-
+![image](https://github.com/user-attachments/assets/4c4a4b7d-70dc-45e2-9f0b-06deae2b8495)
+![image](https://github.com/user-attachments/assets/20f8e01a-b2df-4d3e-9017-4d1c8c3864e8)
+![image](https://github.com/user-attachments/assets/7ffcfdf7-df6a-41ac-81b3-e88d7a227b70)
+![image](https://github.com/user-attachments/assets/48c19db5-c287-461a-b3e4-cd8d5778ed9b)
 
 
 
