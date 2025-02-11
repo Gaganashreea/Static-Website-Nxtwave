@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.cricket-page-top-container {
+    background-color: #fb4e71;
+    height: 30vh;
+    color: white;
+}
+
+.cricket-page-card-container2 {
+    background-color: #fb4e71;
+    margin: 14px;
+    padding: 3px;
+}
+
+.card-page-image {
+    height: 150px;
+    width: 120px;
+    padding: 10px;
+    margin: 13px;
+}
+
+
+.cricket-page-bottom-container {
+    background-color: #e6f6ff;
+    height: 75vh;
+}
+
+.card-container-image {
+    height: 40px;
+    width: 20px;
+    padding: 10px;
+    margin: 4px;
+}
+
+.main-heading {
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+    padding: 14px;
+}
+
+.card-heading {
+    font-family: "Roboto";
+    font-size: 16px;
+    padding: 5px;
+
+}
+
+.card-paragraph {
+    font-family: "Roboto";
+    font-size: 17px;
+    padding: 5px;
+    color: #888888;
+
+}
+
+.cricket-card-container {
+    background-color: #ffffff;
+    margin: 14px;
+
+
+}
+
+.cricket-card-container1 {
+    background-color: #e6f6ff;
+    margin: 14px;
+    display: flex;
+
+}
+
+.main-heading1 {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    padding: 14px;
+
+}
+
+.card-paragraph1 {
+    font-family: "Roboto";
+    font-size: 12px;
+
+
+}
+
+.btn {
+    height: 40px;
+    width: 110px;
+    border-radius: 5px;
+    color: #ffffff;
+
+}
+
+.button-alignment {
+    text-align: center;
+}
+
+.video-section-container {
+    margin: 5px;
+
+}
+
+.video-card {
+    padding: 15px;
+}
+
+.paragraph {
+    font-size: 12px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
