@@ -1,7 +1,5 @@
 Conference Page:
 
-![image](https://github.com/user-attachments/assets/72c0ec85-51da-4526-9ace-043104f649e2)
-![image](https://github.com/user-attachments/assets/6f3e1086-ed78-41a7-b58f-fcdc94e6e24c)
-
-
+![image](https://github.com/user-attachments/assets/369d27c0-9eb9-44bb-8b96-158eea87ba12)
+![image](https://github.com/user-attachments/assets/55196118-434f-4284-a1dc-d8e4c7f6df45)
 
