@@ -1,6 +1,6 @@
 My Projects Page:
 
-https://github-production-user-asset-6210df.s3.amazonaws.com/155230026/378195941-1ea1dec7-7b44-451b-97ad-ef342117dfa1.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250211T165418Z&X-Amz-Expires=300&X-Amz-Signature=d496716b42cd9d018e1784bd084d3ed86ee51a990300d38445a2164254bfb6aa&X-Amz-SignedHeaders=host
+https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/static-websites/my-projects.gif
 
 ![image](https://github.com/user-attachments/assets/f43b7a2a-1776-429e-9f83-d34691267681)
 
