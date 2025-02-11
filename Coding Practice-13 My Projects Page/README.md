@@ -1,6 +1,6 @@
 My Projects Page:
 
-https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/static-websites/my-projects.gif
+
 
 ![image](https://github.com/user-attachments/assets/f43b7a2a-1776-429e-9f83-d34691267681)
 
