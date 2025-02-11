@@ -1,9 +1,7 @@
 Goa Page:
 
-![image](https://github.com/user-attachments/assets/9b61ca97-69d5-49ad-803f-743ddc98cf30)
-![image](https://github.com/user-attachments/assets/8b8e7f3a-cf09-479f-bb08-68cbcd268400)
-![image](https://github.com/user-attachments/assets/363dedde-8d47-4c42-9f44-9ea6163ccff1)
-![image](https://github.com/user-attachments/assets/d5e9fcdb-3068-4df9-b88d-a626909fcdb7)
+![image](https://github.com/user-attachments/assets/8fe37dd2-92bb-4754-bb17-363f9428eee6)
+
 
 
 
