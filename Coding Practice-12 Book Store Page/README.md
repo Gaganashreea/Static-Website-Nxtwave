@@ -1,6 +1,6 @@
 Book Store Page:
 
-![image](https://github.com/user-attachments/assets/f7a47301-da24-44d7-89eb-0474b1110622)
+![image](https://github.com/user-attachments/assets/719e12f5-0db2-490f-9759-192ac5aee26f)
 ![image](https://github.com/user-attachments/assets/a9dd488f-b1f4-46c0-8091-b41d2a8635df)
 ![image](https://github.com/user-attachments/assets/60299320-ff9c-4c53-bbac-c8fb2edb2fcb)
 ![image](https://github.com/user-attachments/assets/a460c887-93c0-4be5-90d4-af3c98764ff9)
