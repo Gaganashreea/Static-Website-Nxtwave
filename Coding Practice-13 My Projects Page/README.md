@@ -1,4 +1,4 @@
 My Projects Page:
 
-![image](https://github.com/user-attachments/assets/986d67e8-2325-46b9-964d-d95bbe6271b0)
+https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/static-websites/my-projects.gif
 
