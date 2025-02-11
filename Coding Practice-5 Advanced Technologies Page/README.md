@@ -1,3 +1,4 @@
 Advanced Technologies Cover Page:
 
-![image](https://github.com/user-attachments/assets/ade67731-415b-4de7-9b4a-08b5401d05d0)
+![image](https://github.com/user-attachments/assets/505bdc92-f8f6-48f2-b2c8-249e8815d363)
+
