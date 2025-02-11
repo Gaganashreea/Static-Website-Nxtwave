@@ -1,6 +1,7 @@
 Podcast Page:
 
-![image](https://github.com/user-attachments/assets/b7be517d-16b5-4100-9160-3d5232e3fe46)
+![image](https://github.com/user-attachments/assets/047b3094-b9c2-4a24-8d06-e4c37ab1b2d6)
+![image](https://github.com/user-attachments/assets/46782644-7084-40bc-a333-508dea299786)
 ![image](https://github.com/user-attachments/assets/120e853e-91bf-4c3c-a3b6-659008e5f5ce)
 ![image](https://github.com/user-attachments/assets/c613e3c2-58fb-4713-9ca1-44ce8a6c3db0)
 ![image](https://github.com/user-attachments/assets/4232159c-1a53-4f0e-928c-0caa467ca41c)
