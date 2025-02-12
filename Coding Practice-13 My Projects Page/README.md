@@ -1,6 +1,7 @@
 My Projects Page:
 
 
+![my-projects](https://github.com/user-attachments/assets/8f27fcaa-28f9-4a6c-950e-b1ecfc1e42d7)
 
 ![image](https://github.com/user-attachments/assets/f43b7a2a-1776-429e-9f83-d34691267681)
 
