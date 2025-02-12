@@ -1,5 +1,8 @@
 Articles Page:
 
+
+![articles-output-v2](https://github.com/user-attachments/assets/3876bfa8-066b-4363-b4f8-37d19f02eb31)
+
 ![image](https://github.com/user-attachments/assets/620eaadc-1b3a-4d97-9109-2881057c1b65)
 ![image](https://github.com/user-attachments/assets/d17cdab0-920f-40c2-8db4-fef08579e3c8)
 ![image](https://github.com/user-attachments/assets/8e782c3c-85e9-4a5e-abf7-614710ac64ce)
