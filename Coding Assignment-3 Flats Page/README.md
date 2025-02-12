@@ -1,4 +1,5 @@
 Flats Page:
+![flats-output-1](https://github.com/user-attachments/assets/62af2301-6461-49e8-900a-5535ce057281)
 
 
 ![image](https://github.com/user-attachments/assets/7fe2b25f-1408-48d8-bc0a-cc408eecd8f9)
